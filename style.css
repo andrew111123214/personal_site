@@ -2,7 +2,7 @@
 {
     width: auto;
     height: 2000px;
-    display: flexbox;
+    display: flex;
     justify-content: space-between;
     align-items: flex-start;
 }
