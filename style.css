@@ -7,10 +7,10 @@
 .container2
 {
     background-color: antiquewhite;
-    width: auto;
+    width: 200px;
     height: auto;
     text-align: center;
-    margin: 0 auto;
+    margin:auto;
 }
 .container1
 {
