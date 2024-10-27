@@ -40,3 +40,10 @@
 {
     background-color: beige;
 }
+.footer
+{
+    background-color: orange;
+    width: auto;
+    height: auto;
+    padding:10px   10px;
+}
