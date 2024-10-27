@@ -6,3 +6,12 @@
     text-align: center;
     margin: 0 auto;
 }
+.container1
+{
+    background-color: rgb(231, 135, 10);
+    width: 90%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 10px;
+}
