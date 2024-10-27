@@ -26,7 +26,7 @@
     text-decoration: none;
     border-left: 1px solid #1a507c;
     border-right: 1px solid #1a507c;
-    border-top: 1px solid #1a507c;
+    border-top-left-radius:10px;
 }
 .container1 a:hover
 {
