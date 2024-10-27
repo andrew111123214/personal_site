@@ -20,6 +20,7 @@
 }
 .container1 a
 {
+    border-top:var(auto);
     border-bottom: 1px solid #1a507c;
     display: block;
     padding: 10px;
