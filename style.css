@@ -4,6 +4,7 @@
     height: 2000px;
     display: flexbox;
     justify-content: space-between;
+    align-items: flex-start;
 }
 .container2
 {
