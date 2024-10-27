@@ -40,11 +40,13 @@
 {
     background-color: beige;
 }
-.footer
+footer
 {
     background-color: orange;
-    width: auto;
+    width: 100%;
     height: auto;
     padding:10px   10px;
     text-align: center;
+    position: relative;
+    bottom: 0;
 }
