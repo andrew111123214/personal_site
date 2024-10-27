@@ -17,6 +17,7 @@ body
     height: auto;
     text-align: center;
     margin-left: auto;
+    border-radius: 10px;
 }
 .conteiner3
 {
@@ -36,22 +37,23 @@ body
     border-right:1px solid orange ;
     border-radius: 10px;
     background-color: orange;
+    text-decoration-color: black;
 }
 .container1 a
 {
-    border-top:  1px  solid #1a507c;
-    border-bottom: 1px solid #1a507c;
+    border-top:  1px black;
+    border-bottom: 1px black;
     display: block;
     padding: 10px;
     text-decoration: none;
-    border-left: 1px solid #1a507c;
-    border-right: 1px solid #1a507c;
+    border-left: 1px black;
+    border-right: 1px 1px black;
     border-radius: 10px;
     background-color: white;
 }
 .container1 a:hover
 {
-    background-color: rgb(59, 199, 106);
+    background-color: white;
 }
 footer
 {
