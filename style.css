@@ -9,8 +9,5 @@
 .container1
 {
     background-color: rgb(231, 135, 10);
-    width: 90%;
-    height: auto;
-    text-align: center;
-    margin: 0 auto;
+    width: 200px;
 }
