@@ -2,7 +2,8 @@
 {
     width: auto;
     height: 2000px;
-    position: relative;
+    display: flexbox;
+    justify-content: space-between;
 }
 .container2
 {
