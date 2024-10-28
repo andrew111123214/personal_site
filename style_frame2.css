@@ -2,3 +2,11 @@ body
 {
     background-color: orange;
 }
+h2
+{
+    text-align: center;
+}
+::-webkit-scrollbar-button
+{
+    background-color: chocolate;
+}
