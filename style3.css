@@ -31,7 +31,7 @@ li
         display: flex;
         background-color: white;
         width:50%;
-        height: 30%;
+        height: auto;
         border-radius: 20px;
         border:1px solid black;
         transition: transform 0.3s;
