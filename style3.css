@@ -1,0 +1,13 @@
+li
+        {
+            list-style-type: none;
+        }  
+        .check
+    {
+        font-family: cursive;
+       
+    }
+    .check::before
+    {
+        content: "👍";
+    }
