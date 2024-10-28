@@ -45,6 +45,7 @@ iframe
     overflow: hidden;
     box-shadow: 0 4px 20px white;
     transition: transform 0.3s;
+    text-rendering: geometricPrecision;
 }
 .frame_top:hover
 {
