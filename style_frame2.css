@@ -6,12 +6,7 @@ h2
 {
     text-align: center;
 }
-::-webkit-scrollbar-button
+p
 {
-    background: green;
-
-}
-::-webkit-scrollbar-thumb
-{
-    background:brown;
+text-rendering: geometricPrecision;
 }
