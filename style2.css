@@ -33,3 +33,7 @@ h1
             font-size: x-large;
             font-family: monospace;
           }
+          li
+          {
+            color: wheat;
+          }
