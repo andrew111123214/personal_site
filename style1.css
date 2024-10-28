@@ -66,11 +66,7 @@ iframe
 {
     transform: scale(1.05);
 }
-::-webkit-scrollbar-thumb
+::-webkit-scrollbar-track 
 {
-    background:yellow;
-}
-::-webkit-scrollbar-thumb:hover 
-{
-    background: #ad1212;
+    background: #28af87;
 }
