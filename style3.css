@@ -33,5 +33,9 @@ li
         margin-top: 20%;
         border-radius: 20px;
         border:1px solid black;
-        
+        transition: transform 0.3s;
+    }
+    .information:hover
+    {
+        transform: scale(1.05);
     }
