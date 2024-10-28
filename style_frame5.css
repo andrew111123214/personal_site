@@ -15,8 +15,8 @@ body
 }
 .top
 {
+    flex:1;
     display: flex;
-    flex:50%;
     background-color: orange;
     align-items: center;
     border-bottom: 2px solid black;
@@ -25,8 +25,8 @@ body
 }
 .bottom
 {
+    flex:1;
     display: flex;
-    flex:50%;
     background-color: orange;
     align-items: center;
     justify-content: center;
