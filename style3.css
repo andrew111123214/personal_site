@@ -34,7 +34,7 @@ li
         border-radius: 20px;
         border:1px solid black;
         transition: transform 0.3s;
-        box-shadow: 1 0 black;
+        box-shadow: 1px 0 20px black;
     }
     .information:hover
     {
