@@ -2,11 +2,6 @@ body
 {
     background-color: orange;
 }
-p
-{
-    text-align: center;
-    
-}
 .container
 {
     display: flex;
