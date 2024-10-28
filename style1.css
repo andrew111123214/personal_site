@@ -10,7 +10,7 @@ body
 }
 .frame_top
 {
-    width: 100%;
+    width: 90%;
     height: 30%;
     border-radius: 15px;
     overflow: hidden;
@@ -52,8 +52,9 @@ iframe
 }
 .frame_bottom
 {
+    margin-bottom: 20px;
     display: flex;
-    width: 100%;
+    width: 90%;
     height: 30%;
     border-radius: 15px;
     overflow: hidden;
