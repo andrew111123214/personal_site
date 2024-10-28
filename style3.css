@@ -22,6 +22,8 @@ li
         height: 100vh;
         background-color: orange;
         border-radius: 20px;
+        display: flex;
+        justify-content: center;
     }
     .information
     {
