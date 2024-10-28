@@ -66,12 +66,11 @@ iframe
 {
     transform: scale(1.05);
 }
-::-webkit-scrollbar-button
-{
-    background: green;
-
-}
 ::-webkit-scrollbar-thumb
 {
-    background:brown;
+    background:yellow;
+}
+::-webkit-scrollbar-thumb:hover 
+{
+    background: #ad1212;
 }
