@@ -17,7 +17,6 @@ body
     margin-bottom: 20px;
     margin-top: 20px;
     transition: transform 0.3s;
-    background-color: orange;
 }
 .container_main
 {
@@ -46,7 +45,6 @@ iframe
     overflow: hidden;
     box-shadow: 0 4px 20px white;
     transition: transform 0.3s;
-    background-color: orange;
 }
 .frame_top:hover
 {
@@ -63,7 +61,6 @@ iframe
     box-shadow: 0 4px 20px white;
     margin-top: 20px;
     transition: transform 0.3s;
-    background-color: orange;
 }
 .frame_bottom:hover
 {
