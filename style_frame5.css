@@ -20,6 +20,7 @@ p
     background-color: orange;
     align-items: center;
     border-bottom: 1px solid black;
+    justify-content: center;
     
 }
 .bottom
@@ -28,6 +29,8 @@ p
     flex:1;
     background-color: orange;
     padding: 20px;
+    align-items: center;
+    justify-content: center;
 }
 a
 {
