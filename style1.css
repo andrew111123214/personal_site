@@ -17,6 +17,7 @@ body
     margin-bottom: 20px;
     margin-top: 20px;
     transition: transform 0.3s;
+    transform-origin: top left;
 }
 .container_main
 {
@@ -62,6 +63,7 @@ iframe
     box-shadow: 0 4px 20px white;
     margin-top: 20px;
     transition: transform 0.3s;
+    transform-origin: top left;
 }
 .frame_bottom:hover
 {
