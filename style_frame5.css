@@ -19,7 +19,7 @@ body
     flex:1;
     background-color: orange;
     align-items: center;
-    border-bottom: 1px solid black;
+    border-bottom: 2px solid black;
     justify-content: center;
     
 }
@@ -28,7 +28,6 @@ body
     display: flex;
     flex:1;
     background-color: orange;
-    padding: 20px;
     align-items: center;
     justify-content: center;
 }
