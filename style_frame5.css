@@ -30,3 +30,7 @@ p
     background-color: orange;
     padding: 20px;
 }
+a
+{
+    list-style-type: none;
+}
