@@ -1,6 +1,11 @@
+body
+{
+    background-color: orange;
+}
 li
         {
             list-style-type: none;
+
         }  
         .check
     {
@@ -9,5 +14,5 @@ li
     }
     .check::before
     {
-        content: "👍";
+        content:"👍";
     }
