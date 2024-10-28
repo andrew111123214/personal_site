@@ -12,7 +12,7 @@ p
     height: auto;
     display: flex;
     justify-content: space-around;
-    align-content: center;
+   
 }
 .next
 {
@@ -21,4 +21,5 @@ p
     display: flex;
     border: 1px solid black;
     justify-content: space-around;
+
 }
