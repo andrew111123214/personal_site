@@ -15,9 +15,11 @@ p
 }
 .top
 {
+    
     flex:1;
     background-color: orange;
     padding:20px;
+    border-bottom: 1px solid black;
 }
 .bottom
 {
