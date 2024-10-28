@@ -52,6 +52,7 @@ iframe
 }
 .frame_bottom
 {
+    position: relative;
     width: 100%;
     height: 30%;
 }
