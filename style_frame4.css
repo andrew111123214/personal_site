@@ -10,3 +10,8 @@ ol
 {
     list-style-type: none;
 }
+img
+{
+    width: 40px;
+    height: auto;
+}
