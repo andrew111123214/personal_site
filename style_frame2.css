@@ -8,5 +8,10 @@ h2
 }
 ::-webkit-scrollbar-button
 {
-    background-color: chocolate;
+    background: green;
+
+}
+::-webkit-scrollbar-button:hover
+{
+    background:brown;
 }
