@@ -14,7 +14,7 @@ body
 .top
 {
     display: flex;
-    flex:50%;
+    flex:1;
     background-color: orange;
     align-items: center;
     border-bottom: 1px solid black;
@@ -24,7 +24,7 @@ body
 .bottom
 {
     display: flex;
-    flex:50%;
+    flex:1;
     background-color: orange;
     padding: 20px;
     align-items: center;
