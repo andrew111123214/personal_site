@@ -4,6 +4,7 @@ body
     justify-content: space-around;
     height: auto;
     margin: 0;
+    align-items: center;
 }
 iframe
 {
