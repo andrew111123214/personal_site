@@ -20,7 +20,7 @@ h1
             }
             
             100%{
-              transform: translate(-100%);
+              transform: translate(-110%);
             }
           }
           body
@@ -36,4 +36,9 @@ h1
           li
           {
             color: white;
+          }
+          .spisok
+          {
+            background-color: orange;
+            width: 100%;
           }
