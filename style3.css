@@ -24,13 +24,14 @@ li
         border-radius: 20px;
         display: flex;
         justify-content: center;
+        align-items: center;
     }
     .information
     {
+        display: flex;
         background-color: white;
         width:50%;
         height: 30%;
-        align-items: center;
         margin-top: 20%;
         border-radius: 20px;
         border:1px solid black;
