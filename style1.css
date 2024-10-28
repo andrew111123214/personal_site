@@ -12,7 +12,7 @@ iframe
     height: 80%;
     border: none;
 }
-.frame-container:hover 
+.iframe-container:hover 
 {
     transform: scale(1.05);
 }
