@@ -1,6 +1,6 @@
 body
 {
-    background-color: orange;
+    background-color:black;
 }
 li
         {
@@ -15,4 +15,9 @@ li
     .check::before
     {
         content:"👍";
+    }
+    .author
+    {
+        width: 100vh;
+        height: 100vh;
     }
