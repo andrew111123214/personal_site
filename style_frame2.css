@@ -8,5 +8,5 @@ h2
 }
 p
 {
-text-rendering: geometricPrecision;
+    -webkit-font-smoothing: antialiased; 
 }
