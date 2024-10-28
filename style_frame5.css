@@ -16,7 +16,7 @@ body
 .top
 {
     display: flex;
-    flex:1;
+    flex:50%;
     background-color: orange;
     align-items: center;
     border-bottom: 2px solid black;
@@ -26,7 +26,7 @@ body
 .bottom
 {
     display: flex;
-    flex:1;
+    flex:50%;
     background-color: orange;
     align-items: center;
     justify-content: center;
