@@ -1,7 +1,7 @@
 h1
         {
             text-align: right;
-            color:white;
+            color:black;
             font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             animation: text 6s infinite linear;
             
@@ -29,7 +29,7 @@ h1
           }
           a
           {
-            color: white ;
+            color: rgb rgb(117, 33, 185) ;
             font-size: x-large;
             font-family: monospace;
           }
@@ -43,4 +43,5 @@ h1
             width: 100%;
             border-radius: 20px;
             height: 100vh;
+            text-align: center;
           }
