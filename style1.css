@@ -16,6 +16,7 @@ body
     overflow: hidden;
     box-shadow: 0 4px 20px black;
     margin-bottom: 20px;
+    margin-top: 20px;
     transition: transform 0.3s;
 }
 .container_main
@@ -59,7 +60,7 @@ iframe
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0 4px 20px black;
-    margin-bottom: 20px;
+    margin-top: 20px;
     transition: transform 0.3s;
 }
 .frame_bottom:hover
