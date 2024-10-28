@@ -45,3 +45,7 @@ iframe
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s;
 }
+.frame1:hover
+{
+    transform: scale(1.05);
+}
