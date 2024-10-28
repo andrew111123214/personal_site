@@ -16,7 +16,7 @@ p
 }
 .top
 {
-    
+    display: flex;
     flex:1;
     background-color: orange;
     padding:20px;
@@ -25,6 +25,7 @@ p
 }
 .bottom
 {
+    display: flex;
     flex:1;
     background-color: orange;
     padding: 20px;
