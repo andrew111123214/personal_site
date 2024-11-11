@@ -3,7 +3,7 @@ body
     background-color: orange;
     display: flex;
     flex-direction: column;
-    height: auto;
+    
 }
 .top
 {
